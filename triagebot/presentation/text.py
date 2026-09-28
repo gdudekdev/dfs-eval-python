@@ -1,0 +1,7 @@
+CLI_DESCRIPTION = "Triage Dungeon Delivery tickets with Ollama"
+INPUT_HELP = "Path to the input ticket JSON file"
+OUTPUT_HELP = "Path for the result JSON file"
+REPORT_HELP = "Path for the Markdown report"
+MODEL_HELP = "Name of a locally installed Ollama model"
+SAVED_MESSAGE = "Saved results to {output} and report to {report}"
+ERROR_PREFIX = "Error: "
